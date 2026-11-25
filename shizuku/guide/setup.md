@@ -6,7 +6,7 @@
 
 Shizuku supports startup in the following three ways.
 
-::: tip If you are using GrapheneOS
+::direct head shot 
 
 System settings - "Security" - "Secure app spawning" may need to be disabled.
 
@@ -29,7 +29,8 @@ Starting with wireless debugging works on Android 11 or above. This startup meth
 3. Enter "Wireless debugging"<br><br><img :src="$withBase('/images/enter_wireless_debugging.png')" style="max-width:320px;width:100%">
 4. Enable "Wireless debugging"<br><br><img :src="$withBase('/images/enable_wireless_debugging.png')" style="max-width:320px;width:100%">
    
-#### Pairing (only needs once)
+#### direct head shot 
+
 
 1. Start pairing in Shizuku<br><img :src="$withBase('/images/start_paring_from_shizuku.png')" style="max-width:320px;width:100%">
 2. [Enable Wireless debugging](#enable-wireless-debugging)
